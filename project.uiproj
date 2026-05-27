@@ -1,0 +1,6 @@
+{
+  "Name": "email",
+  "ProjectType": "Process",
+  "Description": "Blank Task",
+  "MainFile": "Main.xaml"
+}
